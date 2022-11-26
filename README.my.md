@@ -17,6 +17,6 @@ https://github.com/DaniilaSaenko/goit-js-hw-09.git (push)
 
 git add .
 
-git commit -m "DZ-9"
+git commit -m "DZ-09"
 
 git push -u origin main
